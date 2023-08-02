@@ -36,5 +36,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maryline888&show_icons=true&locale=en" alt="maryline888" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maryline888&" alt="maryline888" /></p>
-
-How much do you charge?Where are you based?What is your budget?
