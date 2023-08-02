@@ -1,25 +1,6 @@
 
-None selected
 
-Skip to content
-Using Gmail with screen readers
-Conversations
 
-Unread
- 
-1–1 of 1
- 
-
-Everything else
- 
-1–50 of 1,133
- 
-readme file for profile
-Inbox
-
-adam Adm
-12:20 PM (7 minutes ago)
-to me
 
 <h1 align="center">Hi 👋, I'm Maryline</h1>
 <h3 align="center">A passionate full-stack developer from Quebec</h3>
@@ -36,15 +17,11 @@ to me
 
 - 👯 I’m looking to collaborate on **Something**
 
-- 🤝 I’m looking for help with **Something**
-
-- 👨‍💻 All of my projects are available at [portofolio.com](portofolio.com)
-
-- 📝 I regularly write articles on [blog.com](blog.com)
+- 👨‍💻 All of my projects are available at maryline888
 
 - 💬 Ask me about **CSS,HTML,LARAVEL,JAVASCRIPT,LIVEWIRE,PHP**
 
-- 📫 How to reach me **mary888@gmail.com**
+- 📫 How to reach me **maryline888@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
