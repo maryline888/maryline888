@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Vino**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **LiveWire & Tailwind**
 
 - 👯 I’m looking to collaborate on **Something**
 
