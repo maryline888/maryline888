@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maryline888" alt="maryline888" /></a> </p>
 
-- 🔭 I’m currently working on **Vino**
+- 🔭 I’m currently working on ** stage - refonte du site web de Halte-Ami **
 
 - 🌱 I’m currently learning **LiveWire & Tailwind**
 
