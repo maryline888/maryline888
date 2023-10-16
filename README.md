@@ -6,17 +6,19 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maryline888" alt="maryline888" /></a> </p>
 
-- 🔭 I’m currently working on ** stage - refonte du site web de Halte-Ami **
+- 🔭 I’m currently working on myPortefolio
 
-- 🌱 I’m currently learning **LiveWire & Tailwind**
+- 🌱 I’m currently learning **NEXT.js**
 
-- 👯 I’m looking to collaborate on **Something**
+- 👯 I’m looking to collaborate on **a great opporunity**
 
-- 👨‍💻 All of my projects are available at maryline888
+- 👨‍💻 All of my projects are available at maryline888 
 
 - 💬 Ask me about **CSS,HTML,LARAVEL,JAVASCRIPT,LIVEWIRE,PHP**
 
 - 📫 How to reach me **maryline888@gmail.com**
+
+- We created a new website for our intershipt : www.halte-ami.ca
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
