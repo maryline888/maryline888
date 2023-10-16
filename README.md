@@ -6,19 +6,29 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maryline888" alt="maryline888" /></a> </p>
 
-- 🔭 I’m currently working on myPortefolio
+# My Portfolio
 
-- 🌱 I’m currently learning **NEXT.js**
+🔭 I’m currently working on my Portfolio.
 
-- 👯 I’m looking to collaborate on **a great opporunity**
+🌱 I’m currently learning NEXT.js.
 
-- 👨‍💻 All of my projects are available at maryline888 
+👯 I’m looking to collaborate on a great opportunity.
 
-- 💬 Ask me about **CSS,HTML,LARAVEL,JAVASCRIPT,LIVEWIRE,PHP**
+👨‍💻 All of my projects are available at [maryline888](https://github.com/maryline888).
 
-- 📫 How to reach me **maryline888@gmail.com**
+💬 Ask me about CSS, HTML, LARAVEL, JAVASCRIPT, LIVEWIRE, PHP.
 
-- We created a new website for our intershipt : www.halte-ami.ca
+📫 How to reach me: maryline888@gmail.com.
+
+---
+
+### Internship Project: [Halte Ami](https://www.halte-ami.ca)
+
+🌟 We created a new website for our internship!
+
+👨‍💼 Mon travail de stage.
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
