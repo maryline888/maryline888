@@ -8,9 +8,9 @@
 
 # My Portfolio
 
-🔭 I’m currently working on my Portfolio.
+🔭 I’m currently working on my first .Net web application.
 
-🌱 I’m currently learning NEXT.js.
+🌱 I’m currently learning C# / .Net / Razor.
 
 👯 I’m looking to collaborate on a great opportunity.
 
